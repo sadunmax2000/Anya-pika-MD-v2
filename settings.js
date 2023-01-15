@@ -7,26 +7,26 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "_king devin🌻_" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
+global.packname = "devin💫 вσᡶ by anjanaꪖ💦" // sticker watermark packname //
+global.author = "🥵3.69_devin😑" // sticker watermark author //
 actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.headerText = "_king devin bot_" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
+             global.ownernumber = ['94778838273']   // Owner number //
+             global.vcardowner = ['94778838273']   // vcard owner number //
+             global.ownername = "3.69_devin"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.owner = ['94778838273','917355622763','919673141317']
+             global.ownertag = '94778838273'  // Tag number //
+             global.linkz = "https://wa.me/+94778838273"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['94778838273']  // premium numbers //             
+             global.waterMark = "×͜× King ✘ devin™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
@@ -36,8 +36,8 @@ name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
 name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `created by devin😸`
+footer2 = `Λ⃝kingΛㅤdevin❤️💨`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
